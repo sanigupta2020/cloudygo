@@ -41,7 +41,7 @@ FLASK_DEBUG=1 FLASK_APP="web/serve.py" flask run --host 0.0.0.0 --port 5000
 Style guide is a mix of Google Python + PEP8,
 Some older code may not be perfectly compliant.
 
-## Deployment
+## Deployment CloudyGo
 
 CloudyGo.com is run by Seth Troisi, local deployment is normally tested with
 ```
